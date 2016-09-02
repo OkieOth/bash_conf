@@ -13,3 +13,5 @@ function docker_info() {
         docker_info_base
     fi
 }
+
+alias di='docker_info'
